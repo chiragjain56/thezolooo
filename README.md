@@ -14,13 +14,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ✔️[Linkedin](https://www.linkedin.com/in/thezolooo/)
 ✔️[Mail](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=chiragjain5june@gmail.com.com&su=SUBJECT&body=BODY&tf=1)
-- 💬 ask me about anything, i am happy to help;
+<br>
  <img align="right" alt="GIF" clear = "both" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
+<br>
 ## 🛠️ Technologies and Tools I use:
 
 <p>
-<h3 align="center">Tech Stack</h3>
 <div align="center">
 <p> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
