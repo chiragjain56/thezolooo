@@ -66,7 +66,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📈 my github stats
 
 <p align="center"> 
-        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=Nitesh-Goshwami&theme=react&show_icons=true&include_all_commits=true" />
+        <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api?username=chirag jain &theme=react&show_icons=true&include_all_commits=true" />
         <img height= "200px" width ="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-Goshwami&theme=react&layout=compact" />
  </p>
 
