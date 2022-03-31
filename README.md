@@ -23,10 +23,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
     <img alt="Javascript"
         src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
         height="25px" />
-   
     <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"
         height="25px" />
-  
     <img alt="Markdown"
         src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
         height="25px" />
@@ -36,7 +34,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
         height="25px" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"
         height="25px" />
-
     <img alt="github actions"
         src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"
         height="25px" />
